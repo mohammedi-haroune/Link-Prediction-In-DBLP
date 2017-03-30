@@ -15,7 +15,7 @@ object DBLPReader {
   /**
     * Extraire les liens de la relation Co-Author
     *
-    * @example '''(2016, Hamza Labbaci, Youcef Aklouf)''' represete une relation co author entre '''Hamza Labbaci''' et
+    * @example '''(2016, Hamza Labbaci, Youcef Aklouf)''' represete une relation Co-Author entre '''Hamza Labbaci''' et
     *          '''Youcef AKlouf''' durant l'année '''2016'''
     * @note cette méthode est creé de tels façon pour ne pas refaire le même travail a chaque fois, c'est pour ça elle
     *       sauvgarde les relation créés la première fois dans un dossier '''years''' pour les lire dans les prochaines
@@ -27,15 +27,32 @@ object DBLPReader {
     * @author mohammedi
     */
   def extractCoAuthorRelations(spark: SparkSession, path: String): Dataset[(Int, Couple)] = {
+    import spark.implicits._ 
     if (Files.notExists(Paths.get("years"))) { //verifier si le fichier est déja enregistré
       /*
       verifier c'est une ligne d'auteurs contient un seul auteur
       cette méthode est utilisé pour ignorer ces dernier parcequ'elles ne contient aucune relation Co-Author
        */
       def notAlone(authors: String) = authors.substring(2).split(',').filterNot(_.matches("[ ]*")).length > 1
-      val content = spark.read.textFile(path) //lecture du fichier dans un Dataset[String], String c'est les linges du fichier
-        .filter(line => line.startsWith("#t") || (line.startsWith("#@") && notAlone(line))) //filter les lignes 
-      val authorsWithYears = content
+      /*
+      1. lecture du fichier dans un Dataset[String], String c'est les linges du fichier
+      2. ignorer les lignes vides et celle qui contient les information des articles (titre, abstract ...) et laisser que
+      les lignes des auteurs (qui contient la relation Co-Author) et celles des années
+      Exemple:
+      a partir d'une ligne d'auteurs comme ça : #@Hamza Labbaci, Youcef Aklouf on peur extraire q'il y a une relation
+      Co-Author entre "Hamza Labbaci" et "Youcef Aklouf"
+      3. pour chaque partition boucler sur les lignes du fichier (filtré) et :
+          - chercher la ligne qui commece par "#@" {while (iterator.hasNext && line.startsWith("#@"))}
+          - si la ligne qui vient juste après represente une année {if (line.startsWith("#t"))}
+            on extraire les relations comme montré dans l'exemple, les associer avec la l'année  et les retourner dans
+             le resulat {la boucle for}
+
+      Après tous ça on obtient une Dataset[(Int, Couple)] {relations} qui contient tous les relations dans le fichier
+      4. on sauvgarde le resultat obtenue dans le dossier "years"
+       */
+
+      val relations = spark.read.textFile(path)
+        .filter(line => line.startsWith("#t") || (line.startsWith("#@") && notAlone(line)))
         .filter(!_.isEmpty)
         .mapPartitions { iterator =>
           val result = mutable.MutableList[(Int, Couple)]()
@@ -59,10 +76,9 @@ object DBLPReader {
           }
           result.toIterator
         }
-      authorsWithYears.write.parquet("years")
-      authorsWithYears
+      relations.write.parquet("years")
+      relations
     }.distinct()
-    else spark.read.parquet("years").as[(Int, Couple)]
+    else spark.read.parquet("years").as[(Int, Couple)] //si le fichier exist on le lire directement
   }
-
 }
