@@ -27,12 +27,16 @@ object DBLPReader {
     * @author mohammedi
     */
   def extractCoAuthorRelations(spark: SparkSession, path: String): Dataset[(Int, Couple)] = {
-    if (Files.notExists(Paths.get("years"))) {
+    if (Files.notExists(Paths.get("years"))) { //verifier si le fichier est déja enregistré
+      /*
+      verifier c'est une ligne d'auteurs contient un seul auteur
+      cette méthode est utilisé pour ignorer ces dernier parcequ'elles ne contient aucune relation Co-Author
+       */
       def notAlone(authors: String) = authors.substring(2).split(',').filterNot(_.matches("[ ]*")).length > 1
-      val content = spark.read.textFile(path)
+      val content = spark.read.textFile(path) //lecture du fichier dans un Dataset[String], String c'est les linges du fichier
+        .filter(line => line.startsWith("#t") || (line.startsWith("#@") && notAlone(line))) //filter les lignes 
       val authorsWithYears = content
-        .filter(line => line.startsWith("#t") || (line.startsWith("#@") && notAlone(line)))
-        .filter(!_.isEmpty())
+        .filter(!_.isEmpty)
         .mapPartitions { iterator =>
           val result = mutable.MutableList[(Int, Couple)]()
           while (iterator.hasNext) {
@@ -57,7 +61,7 @@ object DBLPReader {
         }
       authorsWithYears.write.parquet("years")
       authorsWithYears
-    }
+    }.distinct()
     else spark.read.parquet("years").as[(Int, Couple)]
   }
 
