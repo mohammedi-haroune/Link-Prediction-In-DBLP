@@ -1,2 +1,9 @@
 compile
 exit
+compile
+run graphframes
+dependency
+buildDependencies
+buildStructure
+compile
+run

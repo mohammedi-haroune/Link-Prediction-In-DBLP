@@ -83,6 +83,7 @@
           <root url="jar://$MODULE_DIR$/../../lib/datanucleus-rdbms-3.2.9.jar!/" />
           <root url="jar://$MODULE_DIR$/../../lib/derby-10.12.1.1.jar!/" />
           <root url="jar://$MODULE_DIR$/../../lib/eigenbase-properties-1.1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lib/graphframes-0.4.0-spark2.1-s_2.11 (1).jar!/" />
           <root url="jar://$MODULE_DIR$/../../lib/gson-2.2.4.jar!/" />
           <root url="jar://$MODULE_DIR$/../../lib/guava-14.0.1.jar!/" />
           <root url="jar://$MODULE_DIR$/../../lib/guice-3.0.jar!/" />
@@ -251,5 +252,10 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="SBT: org.scalaj:scalaj-http_2.11:2.3.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.scala-logging:scala-logging-api_2.11:2.1.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.scala-logging:scala-logging-slf4j_2.11:2.1.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: graphframes:graphframes:0.4.0-spark2.1-s_2.11:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.11.8:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.7:jar" level="project" />
   </component>
 </module>
