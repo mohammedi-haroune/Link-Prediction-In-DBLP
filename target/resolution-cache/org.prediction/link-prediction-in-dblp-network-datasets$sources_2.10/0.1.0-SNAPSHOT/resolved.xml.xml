@@ -4,7 +4,7 @@
 		module="link-prediction-in-dblp-network-datasets$sources_2.10"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20170408091116"
+		publication="20170409145912"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

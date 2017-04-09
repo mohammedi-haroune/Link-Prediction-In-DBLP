@@ -2,204 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d680f0fc-6dc3-41e8-885f-8af98457b3c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$375635abd5077275de46$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$375635abd5077275de46$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$375635abd5077275de46$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$375635abd5077275de46.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3c080e2b0ca91bf4aa23$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3c080e2b0ca91bf4aa23$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3c080e2b0ca91bf4aa23.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72bd80d32681dcc4385b$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72bd80d32681dcc4385b$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72bd80d32681dcc4385b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72d82ab056efdb5c64a4$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72d82ab056efdb5c64a4$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72d82ab056efdb5c64a4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$$anonfun$root$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef3fca8c31c9af663e2$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef3fca8c31c9af663e2$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef3fca8c31c9af663e2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d78740a14741d2bd927e$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d78740a14741d2bd927e$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d78740a14741d2bd927e.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anon$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator6$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator7$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$kemeny$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$someChangeToAttributes$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator8$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application$$anonfun$main$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$10$$anonfun$apply$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$9$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator10$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator11$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator12$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator5$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator6$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator7$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator8$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator9$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$org$prediction$utils$DBLPReader$$notAlone$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$typecreator3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$typecreator4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Example$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$applyAttributes$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$getPhases$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$maximizationWeights$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$saveInformation$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_scala_logging_scala_logging_api_2_11_2_1_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_scala_logging_scala_logging_slf4j_2_11_2_1_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__graphframes_graphframes_0_4_0_spark2_1_s_2_11_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_8_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_7_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/graphframes_0_4_0_spark2_1_s_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$72d82ab056efdb5c64a4.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef3fca8c31c9af663e2.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d78740a14741d2bd927e.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Aggregator.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Application.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Attribute.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/DBLPReader.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Example.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Phase.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$44c99656b155fc3ee0ea$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$44c99656b155fc3ee0ea$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$44c99656b155fc3ee0ea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$$anonfun$root$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a1ab537aea8fcf9b10d8$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a1ab537aea8fcf9b10d8$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a1ab537aea8fcf9b10d8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f6689a03c00e5096defc$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f6689a03c00e5096defc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f6689a03c00e5096defc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/predition/utils/Couple.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/predition/utils/DBLPReader.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/Couple$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/Couple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$3$$anonfun$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$3$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$3$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$anonfun$org$predition$utils$DBLPReader$$notAlone$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$typecreator1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$$typecreator2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/predition/utils/DBLPReader.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project/target/config-classes/$44c99656b155fc3ee0ea.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$72bd80d32681dcc4385b.cache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52d703e97da510072610.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$7b49b241189f17697ea1.cache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a1ab537aea8fcf9b10d8.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$3c080e2b0ca91bf4aa23.cache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f6689a03c00e5096defc.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$375635abd5077275de46.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anon$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3$$anonfun$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9$$typecreator7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$kemeny$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$anonfun$someChangeToAttributes$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$$typecreator8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Aggregator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$10$$anonfun$apply$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$9$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$anonfun$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator10$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator11$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator12$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$$typecreator9$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Attribute.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$anonfun$org$prediction$utils$DBLPReader$$notAlone$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$typecreator3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$$typecreator4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/DBLPReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Example$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Example.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$applyAttributes$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$getPhases$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$maximizationWeights$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$anonfun$saveInformation$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$$typecreator3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/org/prediction/utils/Phase.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Aggregator.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/Aggregator.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Application.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/example/Application.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Attribute.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/Attribute.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/DBLPReader.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/dblp/utils/DBLPReader.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Example.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/Example.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Phase.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/prediction/Phase.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sbt_2.10/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sbt_2.10/0.1.0-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sbt_2.10/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sbt_2.10/0.1.0-SNAPSHOT/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.10/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.10/0.1.0-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.10/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.10/0.1.0-SNAPSHOT/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets$sources_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/org.prediction/link-prediction-in-dblp-network-datasets_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sbt_2.10-default.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sbt_2.10-default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.10-default.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.10-default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-compile-internal.xml" />
@@ -215,31 +111,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-sources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-test-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -279,15 +152,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Attribute.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/utils/Attribute.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/Attribute.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="128" column="37" lean-forward="true" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="37" />
-              <folding>
-                <element signature="e#30#83#0" expanded="true" />
-                <marker date="1491675737489" expanded="true" signature="8:9332" ph="{...}" />
-                <marker date="1491675737489" expanded="true" signature="669:675" ph="(...)" />
-              </folding>
+            <state relative-caret-position="201">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -375,7 +244,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/graphframes.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Example.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Agregator.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/DBLPReader.scala" />
         <option value="$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-78037510-31ca-467e-8250-934ca2b4799b.json" />
         <option value="$PROJECT_DIR$/output/1960:1963-1964:1965/aac/part-00000-d4547de5-2cba-4d6a-9e5b-2492a80ff482.json" />
         <option value="$PROJECT_DIR$/output/1974:1977-1978:1979/examples/part-00000-1cd8f1ca-fe3d-4374-b624-1fb8e5ebc4b6.json" />
@@ -389,6 +257,13 @@
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Phase.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Application.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/Attribute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/utils/DBLPReader.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/Aggregator.scala" />
+        <option value="$PROJECT_DIR$/info.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/Phase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/example/Application.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/dblp/utils/DBLPReader.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/prediction/Attribute.scala" />
       </list>
     </option>
   </component>
@@ -416,13 +291,16 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -445,15 +323,210 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phase.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Attribute.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aggregator.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Link Prediction In DBLP Network Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkPredictionDBLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prediction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,7 +539,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44952545" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="maximizati&#9;null&#9;null&#10;classification&#9;null&#9;null&#10;Application&#9;null&#9;null&#10;Applic&#9;RUN_CONFIGURATION&#9;Application&#10;saveInfor&#9;null&#9;null&#10;saveInformation&#9;null&#9;null&#10;save&#9;null&#9;null&#10;Ph&#9;FILE&#9;file:///home/mohammedi/GitHubProjects/LinkPredictionDBLP/src/main/scala/org/prediction/utils/Phase.scala&#10;run&#9;ACTION&#9;ActivateRunToolWindow&#10;build&#9;ACTION&#9;BuildMenu" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/mohammedi/GitHubProjects/LinkPredictionDBLP/src/main/scala/org/prediction/Phase.scala&#10;maximizati&#9;null&#9;null&#10;classification&#9;null&#9;null&#10;Application&#9;null&#9;null&#10;Applic&#9;RUN_CONFIGURATION&#9;Application&#10;saveInfor&#9;null&#9;null&#10;saveInformation&#9;null&#9;null&#10;save&#9;null&#9;null&#10;Ph&#9;FILE&#9;file:///home/mohammedi/GitHubProjects/LinkPredictionDBLP/src/main/scala/org/prediction/utils/Phase.scala&#10;run&#9;ACTION&#9;ActivateRunToolWindow&#10;build&#9;ACTION&#9;BuildMenu" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/graphframes-0.4.0-spark2.1-s_2.11.jar!/" />
   </component>
   <component name="RecentsManager">
@@ -478,7 +551,7 @@
     <configuration default="false" name="graphframes" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.prediction.utils.*" />
+          <option name="PATTERN" value="org.prediction.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -518,11 +591,11 @@
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.prediction.utils.*" />
+          <option name="PATTERN" value="org.prediction.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.prediction.utils.Application" />
+      <option name="MAIN_CLASS_NAME" value="org.prediction.example.Application" />
       <option name="VM_PARAMETERS" value="-Xmx1024m" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -999,7 +1072,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1491639077409" />
+    <option name="lastUpdateTimestamp" value="1491746352592" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1059,43 +1132,47 @@
       <workItem from="1491398224202" duration="21848000" />
       <workItem from="1491423436069" duration="38192000" />
       <workItem from="1491557578750" duration="29295000" />
-      <workItem from="1491639019669" duration="21620000" />
+      <workItem from="1491639019669" duration="24417000" />
+      <workItem from="1491682014502" duration="3288000" />
+      <workItem from="1491687021980" duration="2555000" />
+      <workItem from="1491690977149" duration="2065000" />
+      <workItem from="1491718082313" duration="451000" />
+      <workItem from="1491718725939" duration="75000" />
+      <workItem from="1491718854973" duration="2960000" />
+      <workItem from="1491734379491" duration="573000" />
+      <workItem from="1491746332961" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228796000" />
+    <option name="totallyTimeSpent" value="244204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3866878" sideWeight="0.5121212" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936608" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.49242425" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3866878" sideWeight="0.5121212" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.4969697" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3866878" sideWeight="0.4878788" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23771791" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28787878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41679874" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1103,7 +1180,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936608" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.49242425" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3866878" sideWeight="0.4878788" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1168,7 +1249,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1177,465 +1258,200 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-212f189f-e7cb-4158-ba46-c03c99693cd9.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-0fd41576-cbff-4673-80cf-aa6e7202057d.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="11072" column="57" lean-forward="true" selection-start-line="11072" selection-start-column="57" selection-end-line="11072" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive/output/1970:1973-1974:1975/cn/part-00000-5436f44b-7040-488d-a2b1-5ee5fd837e39.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" lean-forward="true" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00001-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49154">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00002-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3380">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00003-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00004-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00005-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00007-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00006-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-270851c9-57f5-437f-91b5-c0c055cfcdb2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200454">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-49c61445-b144-40b0-8542-039f22878983.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00000-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-881e4038-bb20-437a-bbf2-f7aadb0c57e2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200454">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-2363a7ca-0305-41d4-9c52-fdadda252e57.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-896ad7a3-f275-4c7e-894e-f3442f998ec3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-3c2d4763-ea8a-43f8-a989-8fa0165f4066.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-eeb0fbf9-5802-430a-a528-1dc14f209f81.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" lean-forward="true" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-28ddeb6e-486c-4712-a381-f5721efb5085.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-251e249e-f4bb-449e-8702-079352667f2f.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-faf0b739-4e2e-42e4-824c-1d961ee104a9.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="11150" column="0" lean-forward="true" selection-start-line="11150" selection-start-column="0" selection-end-line="11150" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-caf73283-9f8a-43d5-be6e-a94177eb1c09.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198475">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-f4d007b5-5061-49b8-9d69-811352221311.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200473">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-f21ab1f3-1cd5-4812-84ab-4345d9f89641.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199933">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-653a87ac-1cc6-40f1-9c52-9eed8fd5d1c5.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200473">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-838b1fee-aae7-4883-bc97-ce902e65971c.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5753" column="59" lean-forward="false" selection-start-line="5753" selection-start-column="59" selection-end-line="5753" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-368e6e78-a2af-478e-a615-2d5049cc213a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584">
-          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-75c85689-b297-4de2-bf7c-716ec0e49ec1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-2035970e-c3c6-4d67-a96e-49d90cb84624.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="11150" column="0" lean-forward="true" selection-start-line="11150" selection-start-column="0" selection-end-line="11150" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-b52ed4cf-6b7c-4c48-9c2a-fea9e4f1d1c7.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="68" lean-forward="true" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-82762654-c5b4-4b80-b5b4-48ef844d122c.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-2ca64acb-7e99-4724-b9a7-1031b542d860.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-3812be10-a2ec-4b17-8f3d-812f70ba5fdf.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-a3e04a96-a3e8-40a1-b7b9-7fff5f2842fa.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-900bc512-e4d0-4e0f-b7b5-bc7877d629c9.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="353" column="48" lean-forward="false" selection-start-line="353" selection-start-column="6" selection-end-line="353" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-449a64c0-4dc5-4513-844e-2557a4155323.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="0" column="60" lean-forward="true" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/cn/part-00000-e4338f51-9a78-4e6a-853c-b1247065188b.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="586" column="58" lean-forward="false" selection-start-line="586" selection-start-column="0" selection-end-line="586" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/jc/part-00000-6a2bdacd-a6b9-4ebd-b1b6-1bd5db1a802b.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2026">
-          <caret line="470" column="48" lean-forward="false" selection-start-line="470" selection-start-column="6" selection-end-line="470" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/borda/part-00000-26a8d613-e6e7-478e-ad5e-5f88db9b0e20.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-d2a3bee9-1a0a-43d4-af63-09f350860c8f.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="110" column="45" lean-forward="false" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-47e0351f-ed91-447c-85e6-23e985f238ae.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21186">
-          <caret line="1177" column="46" lean-forward="false" selection-start-line="1177" selection-start-column="8" selection-end-line="1177" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-34281f77-5fd5-4b24-881b-b4f9983a8b23.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17154">
-          <caret line="953" column="45" lean-forward="false" selection-start-line="953" selection-start-column="7" selection-end-line="953" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-d55e6451-c474-44b9-84c3-4ba49cad3a16.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/utils/Aggregator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <marker date="1491661209356" expanded="true" signature="37:123" ph="..." />
-            <marker date="1491661209356" expanded="true" signature="125:169" ph="/**...*/" />
-            <marker date="1491661209356" expanded="true" signature="407:2624" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="479:622" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="508:618" ph="(...)" />
-            <marker date="1491661209356" expanded="true" signature="838:1139" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="935:1033" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="1336:1786" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="1395:1665" ph="(...)" />
-            <marker date="1491661209356" expanded="true" signature="1440:1659" ph="..." />
-            <marker date="1491661209356" expanded="true" signature="1921:2621" ph="{...}" />
-            <marker date="1491661209356" expanded="true" signature="2024:2354" ph="(...)" />
-            <marker date="1491661209356" expanded="true" signature="2073:2346" ph="..." />
-            <marker date="1491661209356" expanded="true" signature="2231:2346" ph="(...)" />
-            <marker date="1491661209356" expanded="true" signature="2487:2611" ph="/.../" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/aac/part-00000-01d88792-b914-4819-a5ae-3df18d32e37d.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-bc4baf83-df5b-4ab2-bf20-89b61232410c.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/pr/part-00000-836931a6-568d-4061-9fd5-e4fe599c5f26.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/utils/Phase.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="100" column="40" lean-forward="true" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
-          <folding>
-            <marker date="1491670105965" expanded="true" signature="37:304" ph="..." />
-            <marker date="1491670105965" expanded="true" signature="306:346" ph="/**...*/" />
-            <marker date="1491670105965" expanded="true" signature="491:4006" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="697:874" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="1308:2171" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="1586:2010" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="1587:1997" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1491670105965" expanded="true" signature="2022:2149" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="2076:2141" ph="..." />
-            <marker date="1491670105965" expanded="true" signature="2284:2438" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="2310:2437" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="2648:2855" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="2695:2850" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="2933:3004" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="3042:3260" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="3073:3256" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="3125:3250" ph="..." />
-            <marker date="1491670105965" expanded="true" signature="3166:3250" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="3294:4004" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="3809:3930" ph="(...)" />
-            <marker date="1491670105965" expanded="true" signature="3840:3924" ph="..." />
-            <marker date="1491670105965" expanded="true" signature="4021:4625" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="4161:4623" ph="{...}" />
-            <marker date="1491670105965" expanded="true" signature="4351:4619" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/utils/Application.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding>
-            <marker date="1491671367239" expanded="true" signature="37:247" ph="..." />
-            <marker date="1491671367239" expanded="true" signature="249:293" ph="/**...*/" />
-            <marker date="1491671367239" expanded="true" signature="313:1118" ph="{...}" />
-            <marker date="1491671367239" expanded="true" signature="355:1116" ph="{...}" />
-            <marker date="1491671367239" expanded="true" signature="363:459" ph="/.../" />
-            <marker date="1491671367239" expanded="true" signature="935:1094" ph="(...)" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00004-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json" />
+    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00005-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json" />
+    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00007-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json" />
+    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00006-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-270851c9-57f5-437f-91b5-c0c055cfcdb2.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-49c61445-b144-40b0-8542-039f22878983.json" />
+    <entry file="file://$PROJECT_DIR$/output/bordaFromMap/part-00000-e7dc83e9-6d9d-46ca-bd99-2805268f6e34.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-881e4038-bb20-437a-bbf2-f7aadb0c57e2.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-2363a7ca-0305-41d4-9c52-fdadda252e57.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-896ad7a3-f275-4c7e-894e-f3442f998ec3.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-3c2d4763-ea8a-43f8-a989-8fa0165f4066.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-eeb0fbf9-5802-430a-a528-1dc14f209f81.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-28ddeb6e-486c-4712-a381-f5721efb5085.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-251e249e-f4bb-449e-8702-079352667f2f.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-faf0b739-4e2e-42e4-824c-1d961ee104a9.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-caf73283-9f8a-43d5-be6e-a94177eb1c09.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-f4d007b5-5061-49b8-9d69-811352221311.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-f21ab1f3-1cd5-4812-84ab-4345d9f89641.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-653a87ac-1cc6-40f1-9c52-9eed8fd5d1c5.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-838b1fee-aae7-4883-bc97-ce902e65971c.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-368e6e78-a2af-478e-a615-2d5049cc213a.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-75c85689-b297-4de2-bf7c-716ec0e49ec1.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-2035970e-c3c6-4d67-a96e-49d90cb84624.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-b52ed4cf-6b7c-4c48-9c2a-fea9e4f1d1c7.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-82762654-c5b4-4b80-b5b4-48ef844d122c.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-2ca64acb-7e99-4724-b9a7-1031b542d860.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-3812be10-a2ec-4b17-8f3d-812f70ba5fdf.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-a3e04a96-a3e8-40a1-b7b9-7fff5f2842fa.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-900bc512-e4d0-4e0f-b7b5-bc7877d629c9.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-449a64c0-4dc5-4513-844e-2557a4155323.json" />
+    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/cn/part-00000-e4338f51-9a78-4e6a-853c-b1247065188b.json" />
+    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/jc/part-00000-6a2bdacd-a6b9-4ebd-b1b6-1bd5db1a802b.json" />
+    <entry file="file://$PROJECT_DIR$/output/1972:1975-1976:1977/borda/part-00000-26a8d613-e6e7-478e-ad5e-5f88db9b0e20.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/jc/part-00000-d2a3bee9-1a0a-43d4-af63-09f350860c8f.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/borda/part-00000-47e0351f-ed91-447c-85e6-23e985f238ae.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/cn/part-00000-34281f77-5fd5-4b24-881b-b4f9983a8b23.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-d55e6451-c474-44b9-84c3-4ba49cad3a16.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/aac/part-00000-01d88792-b914-4819-a5ae-3df18d32e37d.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/positiveExamples/part-00000-bc4baf83-df5b-4ab2-bf20-89b61232410c.json" />
+    <entry file="file://$PROJECT_DIR$/output/1970:1973-1974:1975/pr/part-00000-836931a6-568d-4061-9fd5-e4fe599c5f26.json" />
     <entry file="file://$PROJECT_DIR$/project/project/target/config-classes/$304470cf94e2adcd5c1d.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sbt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <marker date="1490797072052" expanded="true" signature="50:118" ph="{...}" />
+            <marker date="1491199705317" expanded="true" signature="153:733" ph="(...)" />
+            <marker date="1491199705317" expanded="true" signature="170:289" ph="(...)" />
+            <marker date="1491199705317" expanded="true" signature="175:288" ph="(...)" />
+            <marker date="1491199705317" expanded="true" signature="479:732" ph="(...)" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/utils/Attribute.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/example/Application.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="128" column="37" lean-forward="true" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="37" />
+        <state relative-caret-position="324">
+          <caret line="33" column="50" lean-forward="true" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
           <folding>
-            <element signature="e#30#83#0" expanded="true" />
-            <marker date="1491675737489" expanded="true" signature="8:9332" ph="{...}" />
-            <marker date="1491675737489" expanded="true" signature="669:675" ph="(...)" />
+            <marker date="1491746759400" expanded="false" signature="39:312" ph="..." />
+            <marker date="1491746759400" expanded="true" signature="314:358" ph="/**...*/" />
+            <marker date="1491746759400" expanded="true" signature="378:1102" ph="{...}" />
+            <marker date="1491746759400" expanded="true" signature="420:1100" ph="{...}" />
+            <marker date="1491746759400" expanded="true" signature="427:517" ph="/.../" />
+            <marker date="1491746759400" expanded="true" signature="925:1078" ph="(...)" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/dblp/utils/DBLPReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="77" column="27" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+          <folding>
+            <marker date="1491676478179" expanded="false" signature="42:179" ph="..." />
+            <marker date="1491676478179" expanded="true" signature="181:365" ph="/**...*/" />
+            <marker date="1491676478179" expanded="true" signature="384:5837" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="389:1357" ph="/**...*/" />
+            <marker date="1491676478179" expanded="true" signature="1537:5800" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="1689:1731" ph="(...)" />
+            <marker date="1491676478179" expanded="true" signature="1733:5488" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="1792:2224" ph="/.../" />
+            <marker date="1491676478179" expanded="true" signature="2350:3482" ph="/.../" />
+            <marker date="1491676478179" expanded="true" signature="3836:3920" ph="(...)" />
+            <marker date="1491676478179" expanded="true" signature="3972:4888" ph="(...)" />
+            <marker date="1491676478179" expanded="true" signature="4350:4838" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="4393:4824" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="4684:4808" ph="{...}" />
+            <marker date="1491676478179" expanded="true" signature="5251:5438" ph="(...)" />
+            <marker date="1491676478179" expanded="true" signature="5494:5796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/Aggregator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <marker date="1491676688419" expanded="false" signature="31:117" ph="..." />
+            <marker date="1491676688419" expanded="true" signature="119:163" ph="/**...*/" />
+            <marker date="1491676688419" expanded="true" signature="401:2618" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="473:616" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="502:612" ph="(...)" />
+            <marker date="1491676688419" expanded="true" signature="832:1133" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="929:1027" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="1330:1780" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="1389:1659" ph="(...)" />
+            <marker date="1491676688419" expanded="true" signature="1434:1653" ph="..." />
+            <marker date="1491676688419" expanded="true" signature="1915:2615" ph="{...}" />
+            <marker date="1491676688419" expanded="true" signature="2018:2348" ph="(...)" />
+            <marker date="1491676688419" expanded="true" signature="2067:2340" ph="..." />
+            <marker date="1491676688419" expanded="true" signature="2225:2340" ph="(...)" />
+            <marker date="1491676688419" expanded="true" signature="2481:2605" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1491676688431" expanded="true" signature="24:68" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/Phase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <marker date="1491746377624" expanded="false" signature="31:282" ph="..." />
+            <marker date="1491746377624" expanded="true" signature="284:324" ph="/**...*/" />
+            <marker date="1491746377624" expanded="true" signature="469:4122" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="675:852" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="1286:2149" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="1564:1988" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="1565:1975" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1491746377624" expanded="true" signature="2000:2127" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="2054:2119" ph="..." />
+            <marker date="1491746377624" expanded="true" signature="2262:2416" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="2288:2415" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="2626:2833" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="2673:2828" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="2911:2982" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="3014:3212" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="3045:3208" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="3097:3202" ph="..." />
+            <marker date="1491746377624" expanded="true" signature="3118:3202" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="3246:4120" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="3901:4033" ph="(...)" />
+            <marker date="1491746377624" expanded="true" signature="3932:4027" ph="..." />
+            <marker date="1491746377624" expanded="true" signature="4137:4741" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="4277:4739" ph="{...}" />
+            <marker date="1491746377624" expanded="true" signature="4467:4735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/prediction/Attribute.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

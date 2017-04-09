@@ -1774,9 +1774,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 2918ms :: artifacts dl 71ms
+[debug] :: resolution report :: resolve 1178ms :: artifacts dl 32ms
 [debug] 	report for org.prediction#link-prediction-in-dblp-network-datasets$sbt_2.10;0.1.0-SNAPSHOT default produced in /home/mohammedi/GitHubProjects/LinkPredictionDBLP/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sbt_2.10-default.xml
-[debug] 	resolve done (2918ms resolve - 71ms download)
+[debug] 	resolve done (1178ms resolve - 32ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: org.prediction#link-prediction-in-dblp-network-datasets$sources_2.10;0.1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -2470,6 +2470,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] :: resolution report :: resolve 439ms :: artifacts dl 41ms
+[debug] :: resolution report :: resolve 273ms :: artifacts dl 33ms
 [debug] 	report for org.prediction#link-prediction-in-dblp-network-datasets$sources_2.10;0.1.0-SNAPSHOT default produced in /home/mohammedi/GitHubProjects/LinkPredictionDBLP/target/resolution-cache/reports/org.prediction-link-prediction-in-dblp-network-datasets$sources_2.10-default.xml
-[debug] 	resolve done (439ms resolve - 41ms download)
+[debug] 	resolve done (273ms resolve - 33ms download)
