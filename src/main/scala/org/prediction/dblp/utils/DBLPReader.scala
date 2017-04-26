@@ -67,6 +67,9 @@ object DBLPReader {
       Après tous ça on obtient une Dataset[(Int, Couple)] {relations} qui contient tous les relations dans le fichier
       4. on sauvgarde le resultat obtenue dans le dossier "years"
        */
+     /*
+     Idenfication des auteurs et assigement des Ids
+     */
       val authors = spark.read
         .textFile(path)
         .filter(line => line.startsWith("#@") && notAlone(line))
@@ -77,6 +80,9 @@ object DBLPReader {
         .zipWithUniqueId()
         .toDF("name", "id")
 
+     /*
+     Identification des realtions co-auteur
+     */
       val relations = spark.read
         .textFile(path)
         .filter(line =>
