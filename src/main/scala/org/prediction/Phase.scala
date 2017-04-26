@@ -53,6 +53,11 @@ case class Phase(startLearning: Int,
           |                  AND e.dst = v2.id
           |                  OR e.src = v2.id
           |                  AND e.dst = v1.id )
+          |AND EXISTS (SELECT * FROM labelingEdges AS e1
+          |                  WHERE e.src = v1.id
+          |                  AND e.dst = v2.id
+          |                  OR e.src = v2.id
+          |                  AND e.dst = v1.id )
           |AND v1.component = v2.component
           |AND v1.id <> v2.id
           |""".stripMargin)
