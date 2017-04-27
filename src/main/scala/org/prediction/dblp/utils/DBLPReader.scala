@@ -112,16 +112,15 @@ object DBLPReader {
           }
           result.toIterator
         }
-        .distinct()
         .toDF("src", "dst", "year")
         .join(authors, $"name" === $"src")
         .select($"id" as "id1", $"dst", $"year")
         .join(authors, $"dst" === $"name")
         .select($"id1" as "src", $"id" as "dst", $"year")
         .map {
-        case Row(id1: Long, id: Long, year : Int) =>
-          if (id < id1) Row (id, id1, year)
-          else  Row (id1 ,id , year)
+        case Row(src_id: Long, dst_id: Long, year : Int) =>
+          if (src_id < dst_id) Row (src_id, dst_id, year)
+          else  Row (dst_id, src_id, year)
        }
        .distinct()
      
