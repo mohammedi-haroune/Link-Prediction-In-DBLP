@@ -118,6 +118,13 @@ object DBLPReader {
         .select($"id" as "id1", $"dst", $"year")
         .join(authors, $"dst" === $"name")
         .select($"id1" as "src", $"id" as "dst", $"year")
+        .map {
+        case Row(id1: Long, id: Long, year : Int) =>
+          if (id < id1) Row (id, id1, year)
+          else  Row (id1 ,id , year)
+       }
+       .distinct()
+     
       relations.write.parquet("relations")
       authors.write.parquet("authors")
 
