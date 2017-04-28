@@ -35,7 +35,6 @@ case class Phase(startLearning: Int,
     .filter(col("year") <= endLabeling)
     .select($"src", $"dst")
     .except(graphPhase.edges.select($"src", $"dst"))
-    .except(graphPhase.edges.select($"dst", $"src"))
     .select($"src" as "candidate1", $"dst" as "candidate2")
     .as[Example]
   labelingEdges.cache()
@@ -49,11 +48,6 @@ case class Phase(startLearning: Int,
       .sql("""SELECT v1.id id1, v2.id id2
           |FROM vertices AS v1, vertices AS v2
           |WHERE NOT EXISTS (SELECT * FROM edges AS e
-          |                  WHERE e.src = v1.id
-          |                  AND e.dst = v2.id
-          |                  OR e.src = v2.id
-          |                  AND e.dst = v1.id )
-          |AND EXISTS (SELECT * FROM labelingEdges AS e1
           |                  WHERE e.src = v1.id
           |                  AND e.dst = v2.id
           |                  OR e.src = v2.id
@@ -72,11 +66,7 @@ case class Phase(startLearning: Int,
 
   val positiveExamples: Dataset[Example] = examples
     .intersect(labelingEdges)
-    .union(
-      examples.intersect(
-        labelingEdges
-          .select($"candidate2" as "candidate1", $"candidate1" as "candidate2")
-          .as[Example]))
+    .union(examples)
   positiveExamples.cache()
 
   var classifications: Seq[(Attribute, Dataset[(Example, Double)])] = _
