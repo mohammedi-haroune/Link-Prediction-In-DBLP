@@ -64,9 +64,7 @@ case class Phase(startLearning: Int,
   }
   examples.cache()
 
-  val positiveExamples: Dataset[Example] = examples
-    .intersect(labelingEdges)
-    .union(examples)
+  val positiveExamples: Dataset[Example] = examples.intersect(labelingEdges)
   positiveExamples.cache()
 
   var classifications: Seq[(Attribute, Dataset[(Example, Double)])] = _
